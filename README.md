@@ -129,8 +129,7 @@ jupyter notebook
 ---
 
 # 📬 Connect with Me  
-
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/laiba-yasir-019240260)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/laiba-yasir-019240260)
 - **Email:** [Email Address](mailto:laybalayba972@gmail.com)  
 ```bash
 

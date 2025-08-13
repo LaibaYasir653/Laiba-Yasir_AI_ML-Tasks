@@ -130,8 +130,8 @@ jupyter notebook
 
 # 📬 Connect with Me  
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/laiba-yasir-019240260)  
-- **Email:** [Your Email Address](mailto:laybalayba972@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/laiba-yasir-019240260)  
+- **Email:** [Email Address](mailto:laybalayba972@gmail.com)  
 ```bash
 
 

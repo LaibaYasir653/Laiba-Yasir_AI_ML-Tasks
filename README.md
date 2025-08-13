@@ -75,20 +75,21 @@ This internship was aimed at:
 
 ## 🗂 Repository Structure  
 ```
-ai-ml-internship/
-├── Task1_Iris_Exploration/
-│ ├── iris_exploration.ipynb
-│ ├── README.md
-├── Task2_Stock_Prediction/
-│ ├── stock_prediction.ipynb
-│ ├── README.md
-├── Task3_Heart_Disease_Prediction/
-│ ├── heart_disease.ipynb
-│ ├── README.md
-├── Task6_House_Price_Prediction/
-│ ├── house_price_prediction.ipynb
-│ ├── README.md
-├── README.md
+Laiba-Yasir_AI_ML-Tasks/
+  ├──Task2
+     ├── README_Task2.md
+     ├── Task2_Predict_Future_Stock_Prices.ipynb
+  ├──Task3
+     ├── README_Task3.md
+     ├── Task3_Heart_Disease_Prediction.ipynb
+  ├──Task4_HousePrice_prediction
+     ├── README_Task4.md
+     ├── Task4_HousePrice_Prediction.ipynb
+  ├──Task_1
+     ├── README.md
+     ├── Task1_Iris_Exploration (2).ipynb
+     ├── iris.csv
+  ├──README.md
 ```
 
 ---
@@ -97,7 +98,7 @@ ai-ml-internship/
 
 - **Languages:** Python 🐍  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, yfinance  
-- **Techniques:** EDA, Regression, Classification, Time Series Forecasting, Ensemble Learning, LLM Prompt Engineering  
+- **Techniques:** EDA, Regression, Classification, Time Series Forecasting, Ensemble Learning, 
 - **Tools:** Jupyter Notebook, Git & GitHub, Kaggle Datasets  
 
 ---
@@ -106,8 +107,9 @@ ai-ml-internship/
 
 
 # Clone this repository
-git clone https://github.com/your-username/ai-ml-internship.git
-cd ai-ml-internship
+git clone https://github.com/LaibaYasir653/Laiba-Yasir_AI_ML-Tasks.git
+cd Laiba-Yasir_AI_ML-Tasks
+
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn yfinance
@@ -123,14 +125,13 @@ jupyter notebook
 - 📅 Applied **time series forecasting** to stock market data.  
 - ❤️ Created **health classification models** with interpretability.  
 - 🏠 Developed **real-estate price prediction** tools.  
-- 🗨️ Implemented **LLM-based chatbot prototypes**.  
 
 ---
 
 # 📬 Connect with Me  
 
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/laiba-yasir-019240260)  
-- **Email:** [Your Email Address](mailto:laybalayba972"gmail.com)  
+- **Email:** [Your Email Address](mailto:laybalayba972@gmail.com)  
 ```bash
 
 

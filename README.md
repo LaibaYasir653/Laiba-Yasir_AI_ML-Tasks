@@ -131,7 +131,7 @@ jupyter notebook
 # 📬 Connect with Me  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/laiba-yasir-019240260)
 - **Email:** [Email Address](mailto:laybalayba972@gmail.com)
-- **Portfolio:** [Portfolio] (https://laybas-portfolio.netlify.app/).  
+- **Portfolio:** [Laiba's Portfolio](https://laybas-portfolio.netlify.app/)
 ```bash
 
 
